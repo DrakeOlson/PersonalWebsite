@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
+  description = "Blogging for the sake of blogging about MEM"
+  keywords = "MEM, Intune, ConfigMgr, SCCM, MECM"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hopefully helpful posts from someone continue to learn."
+  homeSubtitle = "Hopefully helpful posts from someone that continues to learn."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -111,8 +111,8 @@ disableHugoGeneratorInject = false
   #
   [params.footer]
     trademark = true
-    rss = true
-    copyright = true
+    rss = false
+    copyright = false
     author = true
 
     topText = []
@@ -169,9 +169,9 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/DrakeOlson"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/"
 
 [languages]
   [languages.en]
