@@ -1,5 +1,5 @@
 baseURL = "https://techbydrake.com"
-title   = "Cloud Endpoint Management"
+title   = "Tech By Drake"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -175,12 +175,12 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = ""
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 

@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kind-mud-083524810.azurestaticapps.net/about/</loc>
+    <loc>https://techbydrake.com/about/</loc>
     <lastmod>2021-12-15T17:52:52-06:00</lastmod>
   </url><url>
-    <loc>https://kind-mud-083524810.azurestaticapps.net/categories/</loc>
+    <loc>https://techbydrake.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kind-mud-083524810.azurestaticapps.net/fr/categories/"
+                href="https://techbydrake.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kind-mud-083524810.azurestaticapps.net/categories/"
+                href="https://techbydrake.com/categories/"
                 />
   </url><url>
-    <loc>https://kind-mud-083524810.azurestaticapps.net/</loc>
+    <loc>https://techbydrake.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kind-mud-083524810.azurestaticapps.net/fr/"
+                href="https://techbydrake.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kind-mud-083524810.azurestaticapps.net/"
+                href="https://techbydrake.com/"
                 />
   </url><url>
-    <loc>https://kind-mud-083524810.azurestaticapps.net/series/</loc>
+    <loc>https://techbydrake.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kind-mud-083524810.azurestaticapps.net/fr/series/"
+                href="https://techbydrake.com/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kind-mud-083524810.azurestaticapps.net/series/"
+                href="https://techbydrake.com/series/"
                 />
   </url><url>
-    <loc>https://kind-mud-083524810.azurestaticapps.net/tags/</loc>
+    <loc>https://techbydrake.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kind-mud-083524810.azurestaticapps.net/fr/tags/"
+                href="https://techbydrake.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kind-mud-083524810.azurestaticapps.net/tags/"
+                href="https://techbydrake.com/tags/"
                 />
   </url>
 </urlset>
