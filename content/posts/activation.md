@@ -89,7 +89,7 @@ The other would be coming from Microsoft which has a lot of [information](https:
 
 # Resources: DISM and Windows ADK
 
-To do some of the lines above, you need to have the ADK installed. [here](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install) is the homepage for downloading the ADK (plus some other useful utilities).
+To do some of the lines above, you need to have the ADK installed. [Here](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install) is the homepage for downloading the ADK (plus some other useful utilities).
 
 # Resources: SetupComplete.cmd
 
